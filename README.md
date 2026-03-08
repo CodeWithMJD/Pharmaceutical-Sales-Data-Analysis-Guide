@@ -1,4 +1,3 @@
-# Pharmaceutical-Sales-Data-Analysis-Guide
 💊 Pharmaceutical Sales Analysis & Automation System
 هذا المشروع هو نظام متكامل لتحليل مبيعات الأدوية باستخدام Python، يهدف إلى مساعدة الصيادلة والمديرين الماليين على تتبع الأداء، وفهم الموسمية، وأتمتة التقارير المالية.
 
