@@ -1,1 +1,23 @@
 # Pharmaceutical-Sales-Data-Analysis-Guide
+💊 Pharmaceutical Sales Analysis & Automation System
+هذا المشروع هو نظام متكامل لتحليل مبيعات الأدوية باستخدام Python، يهدف إلى مساعدة الصيادلة والمديرين الماليين على تتبع الأداء، وفهم الموسمية، وأتمتة التقارير المالية.
+🚀 Key Features | المميزات الرئيسية
+Data Generation: إنشاء بيانات مبيعات وهمية واقعية لأغراض التدريب.
+Financial Metrics: حساب الإيرادات، التكاليف، وصافي الأرباح (Profit Margins).
+Time-Series Analysis: تحليل النمو الشهري وتحديد مواسم الذروة.
+Automated Reporting: تصدير النتائج تلقائياً إلى ملف Excel احترافي يحتوي على رسوم بيانية ديناميكية.
+🛠️ Tools Used | الأدوات المستخدمة
+Language: Python
+IDE: PyCharm CE
+Libraries: * Pandas: لمعالجة البيانات والجداول.
+Matplotlib: للتصوير البياني.
+XlsxWriter: لأتمتة ملفات الإكسيل وتنسيقها.
+📊 Analytics Preview | نظرة على التحليلات
+المشروع يقوم بالإجابة على أسئلة العمل الحيوية:
+ما هي الفئات الدوائية الأكثر ربحية؟
+متى يكون الطلب في أعلى مستوياته خلال السنة؟
+كيف نوزع المخزون بناءً على متوسط المبيعات؟
+📁 Project Structure | هيكل المشروع
+data_generator.py: الكود المسؤول عن توليد البيانات.
+analysis.py: الكود الرئيسي للتحليل المالي والرسم البياني.
+Pharmacy_Report_2025.xlsx: التقرير النهائي المستخرج آلياً.
